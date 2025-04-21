@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm halil ibrahim kaya</h1>
 <h3 align="center">Senior Web Developer Technology Interface (Laravel | Javascript - Css | Vue) 📱 Mobile Application Developer Interface (Flutter-Dart 💙 IOS - SWİFT )🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halilkaya19" alt="halilkaya19" /></a> </p>
-
-- 📫 How to reach me **kaya1919@hotmail.com**
+- 📫 How to reach me (İletişim ana Email) **kaya1919@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
