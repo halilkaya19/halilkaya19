@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm halil ibrahim kaya</h1>
 <h3 align="center">Senior Web Developer Technology Interface (Laravel | Javascript - Css | Vue) 📱 Mobile Application Developer Interface (Flutter-Dart 💙 IOS - SWİFT )🚀</h3>
-- 📫 How to reach me **kaya1919@hotmail.com**
+- 📫 How to reach me kaya1919@hotmail.com
 <p align="left">
 <a href="https://twitter.com/hhalilibrahim19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hhalilibrahim19" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/halil-ibrahim-kaya-54b261150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halil-ibrahim-kaya-54b261150" height="30" width="40" /></a>
