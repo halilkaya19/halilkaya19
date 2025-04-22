@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm halil ibrahim kaya</h1>
+<h4>explain Halil ibrahim kaya</h4>
+- ~ 
+half-time musician, full-time developer, some-time normal person
 <h3 align="center">Senior Web Developer Technology Interface (Laravel | Javascript - Css | Vue) 📱 Mobile Application Developer Interface (Flutter-Dart 💙 IOS - SWİFT )🚀</h3>
 
 - 📫 How to reach me : kaya1919@hotmail.com
