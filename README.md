@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm halil ibrahim kaya</h1>
 <h4>explain Halil ibrahim kaya</h4>
 half-time musician, full-time developer, some-time normal person
-<h3 align="center">Senior Web Developer Technology Interface (PHP | Laravel | Javascript - Bootstrap | Css | Vue) E-commerce systems 📱 Mobile Application Developer Interface (Flutter-Dart 💙 IOS - SWİFT )🚀</h3>
+<h3 align="center">Senior Web Developer Technology Interface (PHP | Laravel | Javascript - Bootstrap | Css | Vue) E-commerce systems 📱 Mobile Application Developer Interface (Flutter-Dart 💙 Android - Kotlin )🚀</h3>
 - 📫 How to reach me : kaya1919@hotmail.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halilkaya19&show_icons=true&locale=en&layout=compact" alt="halilkaya19" /></p>
